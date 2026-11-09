@@ -31,11 +31,11 @@ Topic: **X**
 ##### Hardware
 *First google search "sleeping gadgets"
 *[Link to the website](https://pulsetto.tech/products/meet-pulsetto?product=product2&irclickid=wdIWbnVCLxyZUcOWFI2aMzqRUkry2kSpWwu8y80&sharedid=&irpid=2060990&im_rewards=&irgwc=1&afsrc=1&utm_Source=SleepFoundation&utm_medium=impact&utm_campaign=28099&utm_content=Online+Tracking+Link&nb_platform=impact&tw_source=impact&tw_campaign=2060990):This website gives you a link to gadgets that help your sleep.
-A gadget this website showcases is a nerve stimulator which helps calm you down and sleep
-this gadget comes with a gel that you put before hand on your skin where the gadget goes and a box of wipes to wipe it away.
-The gadget showcased in this website may help calm people who usually feel really energetic and cant sleep
-The gadget also helps ease stress of people who use it.
-This is a really good 
+ * A gadget this website showcases is a nerve stimulator which helps calm you down and sleep
+ * this gadget comes with a gel that you put before hand on your skin where the gadget goes and a box of wipes to wipe it away.
+ * The gadget showcased in this website may help calm people who usually feel really energetic and cant sleep
+ * The gadget also helps ease stress of people who use it.
+ * This is a really good 
 
 ## Part B: possible future technology
 * Idea
