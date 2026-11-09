@@ -17,13 +17,12 @@ Topic: **X**
   * Helps track your sleep and helps doctors view bad sleeping habits and times that lead to you to lose sleep.
   * [here is the website veiw](img width="903" height="478" alt="image" src="https://github.com/user-attachments/assets/9487c8b1-f81a-4ad6-934d-31ac0b2c1e22")
 *Second app review:"BetterSleep"
-[Link to the website](https://www.bettersleep.com/
-irclickid=wdIWbnVCLxyZUcOWFI2aMzqRUkry2j3hWwu8y80&sharedid=&irpid=2060990&iradname=Online%20Tracking%20Link&irmpname=SleepFoundation&irmptype=mediapartner&mp_value1=&irgwc=1&afsrc=1)
-This website showcases a app that you can get on your phone
-This website also tracks your sleep and helps you know what phase of sleep you were in through out different times of the night
-As an addition to tracking your sleep this app also has soothing sounds, stories, and meditations that help you go to and have a better sleep
-These addition's were also designed by sleep experts as well as the entire website.
-This app helps you think easier and feel better through out the day.
+[Link to the website](https://www.bettersleep.com/irclickid=wdIWbnVCLxyZUcOWFI2aMzqRUkry2j3hWwu8y80&sharedid=&irpid=2060990&iradname=Online%20Tracking%20Link&irmpname=SleepFoundation&irmptype=mediapartner&mp_value1=&irgwc=1&afsrc=1)
+*This website showcases a app that you can get on your phone
+*This website also tracks your sleep and helps you know what phase of sleep you were in through out different times of the night
+*As an addition to tracking your sleep this app also has soothing sounds, stories, and meditations that help you go to and have a better sleep
+*These addition's were also designed by sleep experts as well as the entire website.
+*This app helps you think easier and feel better through out the day.
 
 
 
