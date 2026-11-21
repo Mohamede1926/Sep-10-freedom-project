@@ -3,19 +3,19 @@
 
 ## Choosing a topic
 
-The topic I decided on for this project is Sleeping due to the fact that I’ve since been fascinated about the study of it. I considered making this project about psychology or Physical health, but I soon decided that Sleep would be the best choice for me. I didn’t pick these ideas but researching them was enjoyable. Some of my favorite articles about these topics include ["Science of Psychology"](https://www.apa.org/education-career/guide/science) by the American Psychological Association, ["7 ways wearable technology can help you reach your health goals"](https://www.uclahealth.org/news/article/7-ways-wearable-technology-can-help-you-reach-your-health) by UCLA Health. These articles were very interesting and informative, but the piece of text that made me the most inclined to pick Sleeping was ["The Best Sleep Tech Devices To Improve Your Bedtime Routine"](https://education.christies.com/news/2019/may/growing-relationship-between-art-technology) by Forbes. Seeing all of the different ways new technology has been implemented in sleep was truly fascinating and made me even more passionate about sleep than I already was. 
+The topic I decided on for this project is Sleeping due to the fact that I’ve since been fascinated about the study of it. I considered making this project about psychology or Physical health, but I soon decided that Sleep would be the best choice for me. I didn’t pick these ideas but researching them was enjoyable. Some of my favorite articles about these topics include ["Science of Psychology"](https://www.apa.org/education-career/guide/science) by the American Psychological Association, ["7 ways wearable technology can help you reach your health goals"](https://www.uclahealth.org/news/article/7-ways-wearable-technology-can-help-you-reach-your-health) by UCLA Health. These articles were very interesting and informative, but the piece of text that made me the most inclined to pick Sleeping was ["The Best Sleep Tech Devices To Improve Your Bedtime Routine"](https://education.christies.com/news/2019/may/growing-relationship-between-art-technology) by Forbes. Seeing all of the different ways new technology has been implemented in sleep was truly fascinating and made me even more passionate about the study sleep than I already was. 
 
 ## Engineering Design Process
 
-I am currently in the first stage of the engineering design process, where the main goal is to define the problem. The problem that I hope to solve with my project is that **people are not informed about the world of technology in visual art**. The next stage is to research the problem and I plan to use not only articles and websites, but to also talk to my peers and those around me to discuss the issue and gain their input on the situation. 
+I am currently in the first stage of the engineering design process, where the main goal is to define the problem. The problem that I hope to solve with my project is that **people are not informed about the advanced technology in Sleeping**. The next stage is to research the problem and I plan to use not only articles and websites, but to also talk to my teacher and family to help gather information about the problem.
 
 ## Skills
 
-Some skills that I’ve learned from working on this blog are **time management**, **how to google**, and **communication**. 
+Some skills that I’ve learned from working on this blog are **time management**, **how to google**, and **orginization**. 
 
 #### Time management
 
-I have several commitments outside of school, such as picking up my brother from school every day, being on a swim team, and being in a gaming club two days a week. But my workload at school is becoming busier, so I needed to make more time for this project as well as my history class. So I decided to cut back from two days of gaming club per week to just one day per week. I think this change will help moving forward.
+I have a lot of commitments outside of school, such as picking up both of my siblings almost everyday, attending religious school, studying a language 3 times a week, and mixed martial arts school. Now my assignments at school are becoming more complicated and are increasing, so I had to make sure i had time for this project as well as my other class assignments. So I decided to cut back from two days of language learning and studying  per week to just one day per week. I think this change will help me moving forward and when my workload decreases I hope to go back to the way things were.
 
 #### How to Google
 
