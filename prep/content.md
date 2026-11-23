@@ -37,5 +37,14 @@ Topic: **X**
  *  The gadget also helps ease stress of people who use it
  *  This is a really good 
 ## Part B: possible future technology
-* Idea
-  * Detail
+* A technology where people can have dual lucid dreams.
+  * A device that connects you and the other persons dreams.
+  * This device also helps you both lucid dream so you guys can have full control of your dreams .
+  * You guys can rest and recover in the real world but also have fun while sleeping.
+* Another possible futuristic device is a device that broadcasts your dream into the real world with a screen.
+  * This device can get people to view your dream and study the way the brain tests your emotional responses with situations in real     time
+* Another possible futuristic technology is a technology that allows you to have conversations with others in the real world during your lucid dream.
+  * people such as scientists can use technology to help see how your brain reacts when talked to during sleep.
+  * if you are in a coma and your parents miss you, you may be able to have a conversation with them while stuck in the coma
+  * They can encourage you to wake up and it might actually happen.
+  
