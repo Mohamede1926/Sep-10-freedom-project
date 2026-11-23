@@ -1,5 +1,5 @@
-# Entry 1: Deciding on My Topic (Visual Arts)
-##### 10/18/21
+# Entry 1: Deciding on My Topic(sleeping)
+##### 11/22/26
 
 ## Choosing a topic
 
@@ -19,40 +19,17 @@ I have a lot of commitments outside of school, such as picking up both of my sib
 
 #### How to Google
 
-When I Googled _visual arts technology_, obviously I'm not going to look through all 608 million results. But skimming the titles and descriptions was helpful, as I wasn't really concerned with college degrees or Instagram accounts. Instead, seeing titles of articles like ["How Technology is Changing Visual Art"](https://www.nytimes.com/2018/05/30/technology/personaltech/technology-visual-art.html) was more along the lines of what I wanted to find. Plus, changing my search from _visual arts technology_ to _visual arts technology innovations_ also filtered the results down to what I wanted to find.
+When I Googled Sleeping Technology, there were many result so skimming the titles and descriptions was helpful. I saw a lot of unnecessary link tittles so i looks for titles of articles like ["How Technology Can Help You Sleep Better
+"](https://www.google.com/goto?url=CAESaQHEIkXXSHZ_ei9yG2tyIJ0rdw833aRNy1Z49up4co-Cp-BwpEhphFk_o1HYRjC8vyb9jDUgSDEu9QQixDpbc5bZQhHmnosyJts967BUn1oPGhFVtwUYVfoLSzzCTBIiculVzFH9_BQcpA&gsessionid=kQJFNbF9ObzqIqz6fAYdZrd9KBwkkNX1vVJXIxrxzcqYrYo28DApxQ) was more along the lines of what I wanted to find. Plus, changing my search from _sleeping technology_ to _technology for sleep_ also filtered the results down to what I wanted to find.
 
-#### Communication
+#### Orginization.
 
-Communication was another important skill I have developed. Since I’m working on this project with another person, it’s important to collaborate and talk to one another. At first, we were doing our own searches and not sharing what we found. But finally we made a collaborative Google Doc where we could compile the links we found interesting as an efficient way to share what we found. We plan to check-in with each other at least once a week about the project, probably on Sunday afternoons.
+Organization was also another important skill I have developed. Since I’m not working on this project with another person, it’s important to collect data and keep them organized so that I can keep track of my work. At first, I was doing my own searches and not keeping track of what I found. But I finally made a Google Doc where I wrote ideas links and ideas so that I can be fully efficient with this project and so I don't forget anything.
 
 ## Next steps
 
-I look forward to researching the existing innovations in visual arts!
+I look forward to researching the existing innovations in Sleep!
 
----
-
-# Entry 1: Architecture, building the road ahead
-##### 10/18/21
-
-## Why architecture?
-
-The topic that I have chosen for the year-long project is **architecture**. I chose this topic because I love to study different kinds of architecture/buildings and the process of making it. I am obsessed with the different styles of architecture and want to know more about it, especially all kinds of old style ones. There is a Hot-Pot Restaurant in Fort Hamilton, and the design of the restaurant looked awesome. It is one of those kinds of Chinese old style designs. I liked to see how the architecture over there plans these things out and know the process of architecturing and what kinds of technologies they use to do these beautiful architectures. Lastly, my two backup ideas are educational and graphic designs. 
-
-The two main links that I used to explore was [10 Signs That You Should Become an Architect](https://www.mymove.com/home-inspiration/decoration-design-ideas/signs-that-you-should-become-an-architect/#:~:text=Being%20an%20architect%20is%20more,important%2C%20the%20ability%20to%20design.) and [How Technology Is Transforming Architectural Design](https://www.alvarezdiazvillalon.com/how-technology-is-transforming-architectural-design). The first link helps me know what the field architecture is. And the second link tells me what technologies are used in the field of Architecture. Some other links that I had explored were [What Tools Does an Architect Use?](https://work.chron.com/tools-architect-use-10408.html) and [25 Tools and Devices for Architects — Journey of an Architect](https://www.journeyofanarchitect.com/blog/25-tools-and-devices-for-architects). These two were links that helped me understand the intro of architecturing and what were devices/technology that were helpful in architecture. 
-
-## EDP
-
-Now, I am on the (Step 1) defining and the (Step 2) researching step of the EDP (engineering design process). At first, we were defining what we are most passionate about. Then, we do more deep research in the field that we are more passionate about and do more research about the technology that is used in that career. For instance, some technologies that were used in the field of architecture are “3D printers, augmented writing, and virtual reality.” I think I'll be on step 2 for a while before I move on to the next step of brainstorming possible solutions.
-
-## Skills
-
-One skill that I learned during this experience is **How to Google**. I say this because in this part of the project, we were able to use Google and do different research for different technologies in different fields of careers. When I looked up "architecture innovations," I found a lot of cool stuff, but it wasn't necessarily technology. A lot of it was design-related, such as repurposing shipping containers for things like gardens or homes. So I had to add the word "technology" to my search and that really helped me confirm that I'm interested in existing and also future technology of architecture.
-
-Another skill that I also achieved was **How to Read**. After googling, we needed to see which article matches with the topic by reading closely. There were a lot of terms I didn't know, such as "CAD" (which I then Googled, and that ties into my first skill. By the way, it means "computer aided design"). But reading an article is a lot different than reading a novel. A lot of articles have headings and subheadings that break up the text into smaller chunks, making it easier to read. I think that also helps me in the way that I write, for example, I added headings to this blog entry so that hopefully it's easier for you to read!
-
-## Summary
-
-Overall, I'm really excited to make a website about the technology of architecture. It all started with the inspiration of a restaurant in Fort Hamilton, and maybe I'll have a future career in architecture!
 
 [Next](entry02.md)
 
